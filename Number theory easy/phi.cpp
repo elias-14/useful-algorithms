@@ -9,3 +9,17 @@ ll phi(ll n){
   if(n > 1) res -= res/n;
   return res;
 }
+
+// criba de phis 
+
+void precum(){
+
+  for(int i=0;i<maxa;i++) phi[i] = i;
+
+  for(int i=1;i<maxa;i++) 
+    for(int j=i;j<maxa;j+=i){
+      if(i != j)
+        phi[j] -= phi[i];
+      
+    }
+}
