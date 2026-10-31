@@ -10,6 +10,8 @@ TCR: resuelve sistema de congruencias
 
 Discrete log: resuelve a^x == b mod m (encuentra x)
 
+Discrete root: resuelve todos x^k == a mod n (todos los x, n prima)
+
 ---------------------------------Niche----------------------------------------
 
 1e9 Sieve // K divs exac // Mn K divs // Sum divs in cubicsq n
