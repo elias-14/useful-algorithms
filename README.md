@@ -11,3 +11,7 @@ TCR: resuelve sistema de congruencias
 ---------------------------------Niche----------------------------------------
 
 1e9 Sieve // K divs exac // Mn K divs // Sum divs in cubicsq n
+
+---------------------------------Easy-----------------------------------------
+
+phi, combs, primitive roots
