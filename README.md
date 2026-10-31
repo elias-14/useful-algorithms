@@ -8,6 +8,8 @@ MillerRabbin: Primality test in proximally log^2 n
 
 TCR: resuelve sistema de congruencias 
 
+Discrete log: resuelve a^x == b mod m (encuentra x)
+
 ---------------------------------Niche----------------------------------------
 
 1e9 Sieve // K divs exac // Mn K divs // Sum divs in cubicsq n
