@@ -6,6 +6,7 @@ PollardRho: Prime factorization in N^1/4
 
 MillerRabbin: Primality test in proximally log^2 n
 
+TCR: resuelve sistema de congruencias 
 ---------------------------------Niche----------------------------------------
 
 1e9 Sieve // K divs exac // Mn K divs // Sum divs in cubicsq n
