@@ -24,6 +24,8 @@ numeros de residuos que puedes hacer con k y n, a^k mod n
 
 numero de soluciones de a^2 = 1 mod m
 
+fibonacci sin exponenciacion de matrices en o(1)
+
 ---------------------------------Easy-----------------------------------------
 
 phi, combs, primitive roots
