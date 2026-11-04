@@ -18,6 +18,8 @@ Extended euclid: resuelve ax + by = gcd(x,y)
 
 1e9 Sieve // K divs exac // Mn K divs // Sum divs in cubicsq n
 
+tonelli shanks: resuelve r^2 == n mod p
+
 ---------------------------------Easy-----------------------------------------
 
 phi, combs, primitive roots
