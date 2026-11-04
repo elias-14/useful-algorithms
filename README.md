@@ -26,7 +26,7 @@ numero de soluciones de a^2 = 1 mod m
 
 fibonacci sin exponenciacion de matrices en o(1)
 
-ax + b mod m  min
+ax + b mod m  min //// ax + by <= c , x y >= 0
 
 ---------------------------------Easy-----------------------------------------
 
