@@ -20,6 +20,8 @@ Extended euclid: resuelve ax + by = gcd(x,y)
 
 tonelli shanks: resuelve r^2 == n mod p
 
+numeros de residuos que puedes hacer con k y n, a^k mod n
+
 ---------------------------------Easy-----------------------------------------
 
 phi, combs, primitive roots
