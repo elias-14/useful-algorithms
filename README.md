@@ -10,7 +10,7 @@ TCR: resuelve sistema de congruencias
 
 Discrete log: resuelve a^x == b mod m (encuentra x)
 
-Discrete root: resuelve todos x^k == a mod n (todos los x, n prima)
+Discrete root: resuelve todos x^k == a mod n (todos los x, n prima) tambien Version P 1/4
 
 Extended euclid: resuelve ax + by = gcd(x,y)
 
